@@ -38,6 +38,12 @@ h3
     line-height: 175%;
 }
 
+.links
+{
+    text-decoration: none;
+    color: var(--secondary-text-color);
+}
+
 @media(max-width: 800px)
 {
     #about_me_section
