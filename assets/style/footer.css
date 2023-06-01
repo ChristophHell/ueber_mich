@@ -74,7 +74,7 @@ footer h2
     grid-area: item5;
 }
 
-@media(max-width: 1300px)
+@media(max-width: 1500px)
 {
     .grid_container
     {
@@ -88,7 +88,7 @@ footer h2
     }
 }
 
-@media(max-width: 900px)
+@media(max-width: 1000px)
 {
     .grid_container
     {
